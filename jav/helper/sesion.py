@@ -1,3 +1,5 @@
+# i forgot where i got this code inspiration. please tell me if you know
+
 import functools
 from http.cookiejar import LWPCookieJar
 
