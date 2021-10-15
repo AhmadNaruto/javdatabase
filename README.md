@@ -1,7 +1,7 @@
 # JAV Database 
 
 for the firsttime
-'
+
 from jav.collector import Collector
 
 data = jav.Collector('data.db') 
